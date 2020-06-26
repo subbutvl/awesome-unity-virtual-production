@@ -26,6 +26,10 @@ Dome Tools - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera
 
 360 VR Camera - https://assetstore.unity.com/packages/tools/camera/360-vr-camera-capture-rig-53264
 
+Comercial Assets:
+
+VR Panorama - https://assetstore.unity.com/packages/tools/video/vr-panorama-360-pro-renderer-35102
+
 ## Multi User Edition in Realtime ##
 
 Multi User edition can be a good solution to work with multiple render nodes on the Stage for multiple displays or you can create simple control gui that works over local lan or remote.
