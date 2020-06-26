@@ -35,7 +35,7 @@ Scene Fusion can be used for free for teams of two (2) people on game environmen
 
 Scene Fusion from Kinematic Soup - https://www.kinematicsoup.com/scene-fusion/download
 
-## Unty 3D Video Plugins ##
+## Unity 3D Video Plugins ##
 
 Unity Capture - Creates a Windows Virtual Device Output ( 4K and 60 fps support ) - https://github.com/schellingb/UnityCapture
 
@@ -68,10 +68,6 @@ ClydedeSouza HDRP Chromakey Shader - https://github.com/dirrogate/HDRP-Unity-Chr
 Chromakey Shader with Shadow Support - https://github.com/hecomi/uChromaKey
 
 ProcAmp Shader ChromaKey - https://github.com/keijiro/ProcAmp
-
-Anamorphic Lens Flare Effect - https://github.com/keijiro/KinoStreak
-
-OpenVDB - https://github.com/karasusan/OpenVDBForUnity    ( https://www.openvdb.org/ )
 
 ## Unity 3D Control Plugins ##
 
