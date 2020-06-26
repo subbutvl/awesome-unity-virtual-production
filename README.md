@@ -36,6 +36,14 @@ If you prepare your project to Run with Unity Builds dont forget to activate you
 
 https://docs.unity3d.com/560/Documentation/Manual/MultiDisplay.html
 
+## Camera Off Axis ##
+
+OffAxisCamera computes and applies an off-axis perspective projection to a camera dynamically. This can save your CPU GPU processing when you are running multiple screens, like nDisplay does for Unreal.
+
+https://assetstore.unity.com/packages/tools/camera/offaxiscamera-98991
+
+https://assetstore.unity.com/packages/tools/camera/camera-off-axis-projection-142595
+
 ## Multi User Edition in Realtime ##
 
 Multi User edition can be a good solution to work with multiple render nodes on the Stage for multiple displays or you can create simple control gui that works over local lan or remote.
