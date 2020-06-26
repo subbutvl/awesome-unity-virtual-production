@@ -4,12 +4,6 @@ Awesome Tools for Unity Virtual Production
 
 Prepare your Project and Studio Workstation with this amazing collection of tools for your own Unity 3D Virtual Production software solution. Feel free to help the list !
 
-## Network VPN for remote team members ##
-
-ZeroTier One is a good option and easy to configure - https://www.zerotier.com/
-
-Uprinl VPN Server - This software deploys a fully openvpn for your project, very simple to install standalone or with docker container on a AWS EC2 or VPS. - https://pritunl.com/
-
 ## Unity 3D LEDWall possible solutions and assets ##
 
 Depends of your LedWall Layout if is "curved" you will need to adjust the distortion of your virtual camera(s) to fits the real world.
@@ -127,11 +121,21 @@ FFmpeg - https://www.ffmpeg.org/download.html
 
 Medialooks Transport for NDI over internet - https://www.medialooks.com/video-transport
 
-Use OSC over the web:
+### Remote Control Protocols ### 
+
+DMX Support to control Virtual Lights - https://github.com/davivid/Unity-DMX
+
+#### Use OSC over the web: ####
 
 Open Stage Control , OSC Controller System for Web - https://openstagecontrol.ammd.net/
 
 OSC Web Bridge for Node.JS - https://github.com/automata/osc-web
+
+### Network VPN for remote team members ###
+
+ZeroTier One is a good option and easy to configure - https://www.zerotier.com/
+
+Uprinl VPN Server - This software deploys a fully openvpn for your project, very simple to install standalone or with docker container on a AWS EC2 or VPS. - https://pritunl.com/
 
 
 ## External Tracking Systems (Camera Tracker) ##
