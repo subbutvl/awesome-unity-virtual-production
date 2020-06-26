@@ -22,7 +22,7 @@ Dome Tools - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera
 
 ## Multi User Edition in Realtime ##
 
-Multi User edition can be a good solution to work with multiple render nodes on the Stage for multiple displays.
+Multi User edition can be a good solution to work with multiple render nodes on the Stage for multiple displays or you can create simple control gui that works over local lan or remote.
 
 FREE VERSION
 Scene Fusion can be used for free for teams of two (2) people on game environments of up to 2000 objects*. Simply register an account, then use the console to invite your teammate.
