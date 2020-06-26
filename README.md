@@ -8,13 +8,13 @@ Prepare your Project and Studio Workstation with this amazing collection of tool
 
 Depends of your LedWall Layout if is curved you will need to adjust the distortion of your virtual camera(s) to fits the real world.
 
-Thirdy Part:
+Thirdy Part options:
 
 Disguise Multiple Displays Middleware - https://www.disguise.one/en/products/
 
 Omnity for Curved Displays Mounts - https://www.elumenati.com/product/omnity/
 
-Free Assets:
+Free Assets options:
 
 Dome Tools - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/dome-tools-62664
 
