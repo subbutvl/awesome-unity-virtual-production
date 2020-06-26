@@ -117,6 +117,8 @@ SpaceDesk Extend Monitor to a Smartphone ( Android and IoS ), create a Field Mon
 
 http://www.spacedesk.com
 
+OBS - Spout Input Source - https://github.com/Off-World-Live/obs-spout2-source-plugin
+
 OBS - OpenBroadCast Studio - https://obsproject.com/
 
 OBS - NDI Plugin - https://github.com/Palakis/obs-ndi/releases
