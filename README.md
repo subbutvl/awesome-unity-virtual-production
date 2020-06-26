@@ -6,7 +6,7 @@ Prepare your Project and Studio Workstation with this amazing collection of tool
 
 ## Unity 3D LEDWall possible solutions and assets ##
 
-Dependes of your LedWall Layout if is curve you will need to adjust the distortion of your virtual camera(s) to fits the real world.
+Dependes of your LedWall Layout if is curved you will need to adjust the distortion of your virtual camera(s) to fits the real world.
 
 Thirdy Part:
 
