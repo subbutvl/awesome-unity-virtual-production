@@ -157,7 +157,7 @@ Contract
 
 - A 3D Lighting Artist Specialist
 
-- A Unity 3D HDRP Pipeline specialist
+- A Unity 3D HDRP (DXR) Pipeline specialist
 
 - A Game Developer Specialized in VR Games to setup your VIVE Trackers.
 
