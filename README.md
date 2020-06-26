@@ -18,8 +18,6 @@ VIOSO - https://vioso.com/software/   and   Plugin: https://assetstore.unity.com
 
 ### Free Assets options (You will need to make some tweaks on scene or code): ###
 
-KAVE - (Can save your time), For linear LEDWALL Mounts - https://assetstore.unity.com/packages/tools/camera/kave-113090
-
 Dome Tools - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/dome-tools-62664
 
 360 VR Camera - https://assetstore.unity.com/packages/tools/camera/360-vr-camera-capture-rig-53264
