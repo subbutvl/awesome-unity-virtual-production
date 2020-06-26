@@ -12,7 +12,7 @@ Uprinl VPN Server - This software deploys a fully openvpn for your project, very
 
 ## Unity 3D LEDWall possible solutions and assets ##
 
-Depends of your LedWall Layout if is curved you will need to adjust the distortion of your virtual camera(s) to fits the real world.
+Depends of your LedWall Layout if is "curved" you will need to adjust the distortion of your virtual camera(s) to fits the real world.
 
 ### Thirdy Part options: ###
 
