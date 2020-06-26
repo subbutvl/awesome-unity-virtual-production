@@ -91,6 +91,10 @@ ProcAmp Shader ChromaKey - https://github.com/keijiro/ProcAmp
 
 SteamVR - https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
 
+#### VRPN Asset to sync multiple Nodes and Trackers between another Unity running the same project ####
+
+https://github.com/arviceblot/unityVRPN/releases
+
 OSC Plugin for Unity:
 
 https://github.com/keijiro/OscJack
