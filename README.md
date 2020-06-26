@@ -14,7 +14,7 @@ Uprinl VPN Server - This software deploys a fully openvpn for your project, very
 
 Depends of your LedWall Layout if is curved you will need to adjust the distortion of your virtual camera(s) to fits the real world.
 
-Thirdy Part options:
+### Thirdy Part options: ###
 
 Disguise Multiple Displays Middleware - https://www.disguise.one/en/products/
 
@@ -28,7 +28,7 @@ Dome Tools - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera
 
 360 VR Camera - https://assetstore.unity.com/packages/tools/camera/360-vr-camera-capture-rig-53264
 
-Comercial Assets:
+### Comercial Assets: ###
 
 Multi Projector Warp System - https://assetstore.unity.com/packages/tools/camera/multi-projector-warp-system-75582
 
