@@ -36,9 +36,9 @@ If you prepare your project to Run with Unity Builds dont forget to activate you
 
 https://docs.unity3d.com/560/Documentation/Manual/MultiDisplay.html
 
-## Camera Off Axis ##
+## Camera Off Axis (ViewPort) ##
 
-OffAxisCamera computes and applies an off-axis perspective projection to a camera dynamically. This can save your CPU GPU processing when you are running multiple screens, like nDisplay does for Unreal.
+OffAxisCamera computes and applies an off-axis perspective projection to a camera dynamically. This can save your CPU and GPU processing when you are running multiple screens, like nDisplay does for Unreal.
 
 https://assetstore.unity.com/packages/tools/camera/offaxiscamera-98991
 
