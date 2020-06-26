@@ -22,7 +22,7 @@ Omnity for Curved Displays Mounts - https://www.elumenati.com/product/omnity/
 
 VIOSO - https://vioso.com/software/   and   Plugin: https://assetstore.unity.com/packages/tools/integration/multi-projection-integration-for-blending-and-warping-166403
 
-Free Assets options (You will need to make some tweaks on scene or code):
+### Free Assets options (You will need to make some tweaks on scene or code): ###
 
 Dome Tools - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/dome-tools-62664
 
