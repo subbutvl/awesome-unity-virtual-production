@@ -4,6 +4,20 @@ Awesome Tools for Unity Virtual Production
 
 Prepare your Project and Studio Workstation with this amazing collection of tools for your own Unity 3D Virtual Production software solution. Feel free to help the list !
 
+## Unty 3D LEDWall possible solutions and assets ##
+
+Thirdy Part:
+
+Disguise Multiple Displays Middleware - https://www.disguise.one/en/products/
+
+Omnity for Curved Displays Mounts - https://www.elumenati.com/product/omnity/
+
+Free Assets:
+
+Dome Tools - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/dome-tools-62664
+
+360 VR Camera - https://assetstore.unity.com/packages/tools/camera/360-vr-camera-capture-rig-53264
+
 ## Unty 3D Video Plugins ##
 
 Unity Capture - Creates a Windows Virtual Device Output ( 4K and 60 fps support ) - https://github.com/schellingb/UnityCapture
