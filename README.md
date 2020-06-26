@@ -36,6 +36,12 @@ Multi Projector Warp System - https://assetstore.unity.com/packages/tools/camera
 
 VR Panorama - https://assetstore.unity.com/packages/tools/video/vr-panorama-360-pro-renderer-35102
 
+### For Builded Projects with Multi Monitor Support: ###
+
+If you prepare your project to Run with Unity Builds dont forget to activate your Multiple Screens Output:
+
+https://docs.unity3d.com/560/Documentation/Manual/MultiDisplay.html
+
 ## Multi User Edition in Realtime ##
 
 Multi User edition can be a good solution to work with multiple render nodes on the Stage for multiple displays or you can create simple control gui that works over local lan or remote.
