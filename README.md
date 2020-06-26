@@ -125,6 +125,8 @@ OBS - Virtual Camera Plugin - https://github.com/Fenrirthviti/obs-virtual-cam/re
 
 ## External Required Tools ##
 
+SPOUT Runtime - https://spout.zeal.co/
+
 NewTek NDI Tools for Windows - https://ndi.tv/tools/
 
 Quick Time - https://support.apple.com/pt_BR/downloads/quicktime
