@@ -79,6 +79,8 @@ ProcAmp Shader ChromaKey - https://github.com/keijiro/ProcAmp
 
 ## Unity 3D Control Plugins ##
 
+SteamVR - https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
+
 OSC Plugin for Unity:
 
 https://github.com/keijiro/OscJack
