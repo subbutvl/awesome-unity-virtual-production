@@ -14,7 +14,7 @@ Disguise Multiple Displays Middleware - https://www.disguise.one/en/products/
 
 Omnity for Curved Displays Mounts - https://www.elumenati.com/product/omnity/
 
-Free Assets options:
+Free Assets options (You will need to make some tweaks on scene or code):
 
 Dome Tools - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/dome-tools-62664
 
