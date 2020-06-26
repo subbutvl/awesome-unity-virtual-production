@@ -93,7 +93,7 @@ SteamVR - https://assetstore.unity.com/packages/tools/integration/steamvr-plugin
 
 #### VRPN Asset to sync multiple Nodes and Trackers between another Unity running the same project ####
 
-https://github.com/arviceblot/unityVRPN/releases
+https://github.com/arviceblot/unityVRPN/releases   ( https://en.wikipedia.org/wiki/VRPN )
 
 OSC Plugin for Unity:
 
