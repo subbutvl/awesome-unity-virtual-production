@@ -55,7 +55,9 @@ Scene Fusion from Kinematic Soup - https://www.kinematicsoup.com/scene-fusion/do
 
 ## Unity 3D Video Plugins ##
 
-Unity Capture - Creates a Windows Virtual Device Output ( 4K and 60 fps support ) - https://github.com/schellingb/UnityCapture
+SPOUT for Unity Plugin - https://github.com/keijiro/KlakSpout   ( almost zero latency and no gpu overhead ! ), input and output available.
+
+Unity Capture - Creates a Windows Virtual Device Output ( 4K and 60 fps support ) - https://github.com/schellingb/UnityCapture  
 
 FFMpeg Out - Exports frame by frame to video file - https://github.com/keijiro/FFmpegOut/releases
 
