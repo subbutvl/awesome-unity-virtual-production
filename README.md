@@ -24,6 +24,9 @@ Dome Tools - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera
 
 Multi User edition can be a good solution to work with multiple render nodes on the Stage for multiple displays.
 
+FREE VERSION
+Scene Fusion can be used for free for teams of two (2) people on game environments of up to 2000 objects*. Simply register an account, then use the console to invite your teammate.
+
 Scene Fusion from Kinematic Soup - https://www.kinematicsoup.com/scene-fusion/download
 
 ## Unty 3D Video Plugins ##
