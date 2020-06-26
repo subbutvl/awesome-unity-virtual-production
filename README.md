@@ -36,7 +36,7 @@ Multi Projector Warp System - https://assetstore.unity.com/packages/tools/camera
 
 VR Panorama - https://assetstore.unity.com/packages/tools/video/vr-panorama-360-pro-renderer-35102
 
-### For Builded Projects with Multi Monitor Support: ###
+### For Builded Projects with Multi Monitor Support (No In-Editor mode): ###
 
 If you prepare your project to Run with Unity Builds dont forget to activate your Multiple Screens Output:
 
