@@ -1,6 +1,6 @@
 # awesome-unity-virtual-production
 
-Awesome Tools for Unity Virtual Production
+Awesome Tools for Unity Virtual Production ( This is an non-official list ). We hope Unity 3D creates a good Workflow/Pipeline for Virtual Production in a near future. At the momento we can test this options.
 
 ![image](https://github.com/magadan/awesome-unity-virtual-production/blob/master/draft.jpg)
 
