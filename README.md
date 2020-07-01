@@ -59,6 +59,10 @@ SPOUT for Unity Plugin - https://github.com/keijiro/KlakSpout   ( almost zero la
 
 Unity Capture - Creates a Windows Virtual Device Output ( 4K and 60 fps support ) - https://github.com/schellingb/UnityCapture  
 
+UnityCam - https://github.com/mrayy/UnityCam
+
+NextPlayer Unity3D - https://github.com/NexPlayer/NexPlayer_Unity_Plugin
+
 FFMpeg Out - Exports frame by frame to video file - https://github.com/keijiro/FFmpegOut/releases
 
 NDI Input and Output for Unity 3D (unity plugin ) - https://github.com/keijiro/KlakNDI
