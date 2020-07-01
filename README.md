@@ -73,13 +73,13 @@ Black Magic Decklink for Unity 3D - https://github.com/keijiro/Klinker
 
 GenLock Frame Rates - https://github.com/Unity-Technologies/GenLockProofOfConcept
 
-HAP Video Codec Player for Unity 3D:
+### HAP Video Codec Player for Unity 3D: ###
 
 Free: https://github.com/keijiro/KlakHap
 
 Comercial: https://assetstore.unity.com/packages/tools/video/demolition-media-hap-78908
 
-Comercial Plugins:
+### Comercial Plugins: ###
 
 AVPRO Live Camera (DeckLink support) - https://assetstore.unity.com/packages/tools/video/avpro-live-camera-3683
 
