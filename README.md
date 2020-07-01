@@ -55,15 +55,17 @@ Scene Fusion from Kinematic Soup - https://www.kinematicsoup.com/scene-fusion/do
 
 ## Unity 3D Video Plugins ##
 
-SPOUT for Unity Plugin - https://github.com/keijiro/KlakSpout   ( almost zero latency and no gpu overhead ! ), input and output available.
+SPOUT for Unity 3D Plugin - https://github.com/keijiro/KlakSpout   ( almost zero latency and no gpu overhead ! ), input and output available.
 
 Unity Capture - Creates a Windows Virtual Device Output ( 4K and 60 fps support ) - https://github.com/schellingb/UnityCapture  
 
-UnityCam - https://github.com/mrayy/UnityCam
+Unity3D UnityCam - https://github.com/mrayy/UnityCam
 
-NextPlayer Unity3D - https://github.com/NexPlayer/NexPlayer_Unity_Plugin
+Unity3D uWindowCapture - https://github.com/hecomi/uWindowCapture/
 
-FFMpeg Out - Exports frame by frame to video file - https://github.com/keijiro/FFmpegOut/releases
+Unity3D NextPlayer - https://github.com/NexPlayer/NexPlayer_Unity_Plugin
+
+Unity 3D FFMpeg Out - Exports frame by frame to video file - https://github.com/keijiro/FFmpegOut/releases
 
 NDI Input and Output for Unity 3D (unity plugin ) - https://github.com/keijiro/KlakNDI
 
