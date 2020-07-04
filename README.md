@@ -171,6 +171,8 @@ Uprinl VPN Server - This software deploys a fully openvpn for your project, very
 
 ## External Tracking Systems (Camera Tracker) ##
 
+ZED 2 Camera for Depth Sensing and Spatial AI. Unity ready - https://www.stereolabs.com/
+
 Driver4VR - http://www.driver4vr.com  (use any other tracker devices to help the stage )
 
 PSMoveService (to use psmove as camera tracker ) - You PSMove and PSEYE's as a Tracker
