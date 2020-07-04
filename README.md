@@ -58,6 +58,7 @@ Scene Fusion from Kinematic Soup - https://www.kinematicsoup.com/scene-fusion/do
 ## Unity 3D Video Plugins ##
 
 SPOUT for Unity 3D Plugin - https://github.com/keijiro/KlakSpout   ( almost zero latency and no gpu overhead ! ), input and output available.
+(Note: I tested and Spout Sender not works in HDRP if attached to camera in this version, you need to create a Render Texture and output this texture to a spout sender ).
 
 Unity Capture - Creates a Windows Virtual Device Output ( 4K and 60 fps support ) - https://github.com/schellingb/UnityCapture  
 
@@ -95,7 +96,7 @@ ClydedeSouza HDRP Chromakey Shader - https://github.com/dirrogate/HDRP-Unity-Chr
 
 Chromakey Shader with Shadow Support - https://github.com/hecomi/uChromaKey
 
-ProcAmp Shader ChromaKey - https://github.com/keijiro/ProcAmp
+ProcAmp Shader ChromaKey (works in HDRP too) - https://github.com/keijiro/ProcAmp
 
 ## Unity 3D Control Plugins ##
 
