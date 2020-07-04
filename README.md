@@ -20,8 +20,6 @@ VIOSO - https://vioso.com/software/   and   Plugin: https://assetstore.unity.com
 
 ### Free Assets options (You will need to make some tweaks on scene or code): ###
 
-Insert a USB Video Capture Device Directly into a Scene (free and good) - https://github.com/Satoshi-Hirazawa/unity-uvc-camera  
-
 Dome Tools - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/dome-tools-62664
 
 360 VR Camera - https://assetstore.unity.com/packages/tools/camera/360-vr-camera-capture-rig-53264
@@ -59,6 +57,8 @@ Scene Fusion from Kinematic Soup - https://www.kinematicsoup.com/scene-fusion/do
 
 SPOUT for Unity 3D Plugin - https://github.com/keijiro/KlakSpout   ( almost zero latency and no gpu overhead ! ), input and output available.
 (Note: I tested and Spout Sender not works in HDRP if attached to camera in this version, you need to create a Render Texture and output this texture to a spout sender ).
+
+Unity UVC - https://github.com/Satoshi-Hirazawa/unity-uvc-camera - Insert a USB Video Capture Device Directly into a Scene (free and good) 
 
 Unity Capture - Creates a Windows Virtual Device Output ( 4K and 60 fps support ) - https://github.com/schellingb/UnityCapture  
 
