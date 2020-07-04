@@ -20,6 +20,8 @@ VIOSO - https://vioso.com/software/   and   Plugin: https://assetstore.unity.com
 
 ### Free Assets options (You will need to make some tweaks on scene or code): ###
 
+Insert a USB Video Capture Device Directly into a Scene (free and good) - https://github.com/Satoshi-Hirazawa/unity-uvc-camera  
+
 Dome Tools - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/dome-tools-62664
 
 360 VR Camera - https://assetstore.unity.com/packages/tools/camera/360-vr-camera-capture-rig-53264
