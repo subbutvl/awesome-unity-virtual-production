@@ -108,7 +108,7 @@ https://github.com/arviceblot/unityVRPN/releases   ( https://en.wikipedia.org/wi
 
 OSC Plugin for Unity:
 
-https://github.com/keijiro/OscJack
+https://github.com/keijiro/OscJack  (for me this is the best, simple and easy )
 
 https://github.com/jorgegarcia/UnityOSC
 
