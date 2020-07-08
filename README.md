@@ -134,6 +134,8 @@ OBS - NDI Plugin - https://github.com/Palakis/obs-ndi/releases
 
 OBS - Virtual Camera Plugin - https://github.com/Fenrirthviti/obs-virtual-cam/releases
 
+OBS OSC Control - https://github.com/CarloCattano/ObSC
+
 ## External Required Tools ##
 
 SPOUT Runtime - https://spout.zeal.co/
